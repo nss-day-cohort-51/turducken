@@ -1,0 +1,16 @@
+C:\Users\12054\workspace\turducken\bin\Debug\net5.0\turducken.exe
+C:\Users\12054\workspace\turducken\bin\Debug\net5.0\turducken.deps.json
+C:\Users\12054\workspace\turducken\bin\Debug\net5.0\turducken.runtimeconfig.json
+C:\Users\12054\workspace\turducken\bin\Debug\net5.0\turducken.runtimeconfig.dev.json
+C:\Users\12054\workspace\turducken\bin\Debug\net5.0\turducken.dll
+C:\Users\12054\workspace\turducken\bin\Debug\net5.0\ref\turducken.dll
+C:\Users\12054\workspace\turducken\bin\Debug\net5.0\turducken.pdb
+C:\Users\12054\workspace\turducken\obj\Debug\net5.0\turducken.csproj.AssemblyReference.cache
+C:\Users\12054\workspace\turducken\obj\Debug\net5.0\turducken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12054\workspace\turducken\obj\Debug\net5.0\turducken.AssemblyInfoInputs.cache
+C:\Users\12054\workspace\turducken\obj\Debug\net5.0\turducken.AssemblyInfo.cs
+C:\Users\12054\workspace\turducken\obj\Debug\net5.0\turducken.csproj.CoreCompileInputs.cache
+C:\Users\12054\workspace\turducken\obj\Debug\net5.0\turducken.dll
+C:\Users\12054\workspace\turducken\obj\Debug\net5.0\ref\turducken.dll
+C:\Users\12054\workspace\turducken\obj\Debug\net5.0\turducken.pdb
+C:\Users\12054\workspace\turducken\obj\Debug\net5.0\turducken.genruntimeconfig.cache
