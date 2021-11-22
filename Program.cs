@@ -10,17 +10,28 @@ namespace turducken
             int MemberNum = 0;
             string MemberList = null;
             int bank = 100;
+
+            int luckVal = new Random().Next(-10, 10);
+
+
+
+
             while (MemberList != "")
             {
                 try
                 {
                     Console.WriteLine("Enter Team Member Name");
                     string TeamMemberName = Console.ReadLine();
+
                     Console.WriteLine("Enter Team Member Skill Level");
                     int TeamMemberSkill = Int32.Parse(Console.ReadLine());
+
                     Console.WriteLine("Enter Team Member Courage Factor");
                     double TeamMemberCourage = Convert.ToDouble(Console.ReadLine());
+
                     MemberNum++;
+                    int bankDiff = luckVal + bank;
+
                     Console.WriteLine($"Member Count; {MemberNum}");
 
 
@@ -35,6 +46,8 @@ namespace turducken
 
                     int sumSkillLevels = name.SkillLevel + name.SkillLevel;
 
+                    Console.WriteLine($"Team Skill Level: {sumSkillLevels}");
+                    Console.WriteLine($"Bank Difficulty Level: {bankDiff}");
 
                     if (sumSkillLevels >= bank)
                     {
