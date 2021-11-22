@@ -8,26 +8,24 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\12054\\.nuget\\packages\\": {}
+    "C:\\Users\\NSS_STUDENT\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\12054\\workspace\\turducken\\turducken.csproj",
+      "projectUniqueName": "C:\\Users\\NSS_STUDENT\\turducken\\turducken.csproj",
       "projectName": "turducken",
-      "projectPath": "C:\\Users\\12054\\workspace\\turducken\\turducken.csproj",
-      "packagesPath": "C:\\Users\\12054\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\12054\\workspace\\turducken\\obj\\",
+      "projectPath": "C:\\Users\\NSS_STUDENT\\turducken\\turducken.csproj",
+      "packagesPath": "C:\\Users\\NSS_STUDENT\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\NSS_STUDENT\\turducken\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\12054\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\NSS_STUDENT\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -60,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

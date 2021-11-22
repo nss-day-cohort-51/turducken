@@ -1,0 +1,16 @@
+C:\Users\NSS_STUDENT\turducken\bin\Debug\net5.0\turducken.exe
+C:\Users\NSS_STUDENT\turducken\bin\Debug\net5.0\turducken.deps.json
+C:\Users\NSS_STUDENT\turducken\bin\Debug\net5.0\turducken.runtimeconfig.json
+C:\Users\NSS_STUDENT\turducken\bin\Debug\net5.0\turducken.runtimeconfig.dev.json
+C:\Users\NSS_STUDENT\turducken\bin\Debug\net5.0\turducken.dll
+C:\Users\NSS_STUDENT\turducken\bin\Debug\net5.0\ref\turducken.dll
+C:\Users\NSS_STUDENT\turducken\bin\Debug\net5.0\turducken.pdb
+C:\Users\NSS_STUDENT\turducken\obj\Debug\net5.0\turducken.csproj.AssemblyReference.cache
+C:\Users\NSS_STUDENT\turducken\obj\Debug\net5.0\turducken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NSS_STUDENT\turducken\obj\Debug\net5.0\turducken.AssemblyInfoInputs.cache
+C:\Users\NSS_STUDENT\turducken\obj\Debug\net5.0\turducken.AssemblyInfo.cs
+C:\Users\NSS_STUDENT\turducken\obj\Debug\net5.0\turducken.csproj.CoreCompileInputs.cache
+C:\Users\NSS_STUDENT\turducken\obj\Debug\net5.0\turducken.dll
+C:\Users\NSS_STUDENT\turducken\obj\Debug\net5.0\ref\turducken.dll
+C:\Users\NSS_STUDENT\turducken\obj\Debug\net5.0\turducken.pdb
+C:\Users\NSS_STUDENT\turducken\obj\Debug\net5.0\turducken.genruntimeconfig.cache
